@@ -1,0 +1,17 @@
+body {
+	font-family: "Georgia";
+	width: 500px;
+	
+}
+
+#mandatory {
+	background-color: rgb(147, 249, 215);
+	Padding: 30px;
+	border: 10px dotted rgb(255, 182, 0);
+}
+
+h1, h2 {
+	font-family: "helvetica";
+	}
+	
+p:first-child:first-letter { float: left; color: #903; font-size: 75px; line-height: 60px; padding-top:
